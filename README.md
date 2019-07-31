@@ -1,2 +1,2 @@
-# daniel2m.ie
+# D2Me.github.io
 Personal Webpage
